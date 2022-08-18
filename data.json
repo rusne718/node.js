@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "rusne",
+      "email": "rusne@a.lt",
+      "password": "nezinau",
+      "id": 1
+    },
+    {
+      "username": "rusne",
+      "email": "rusne@a.lt",
+      "password": "nezinau",
+      "id": 2
+    }
+  ],
+  "addUsers": [
+    {
+      "photo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.pCoPeT9dpeI-aawO2DVW3gHaEL%26pid%3DApi&f=1",
+      "username": "kate"
+    }
+  ]
+}
